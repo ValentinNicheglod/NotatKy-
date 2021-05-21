@@ -1,0 +1,174 @@
+html, body, .App {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+img{
+  pointer-events: none;
+}
+
+hr{
+  margin: 1rem 0!important;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.total-width {
+  width: 100%;
+}
+
+.title-font{
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+.MuiPaper-root{
+  font-family: 'Rubik', sans-serif!important;
+}
+
+.btn-round{
+  border-radius: 30px;
+  border-width: 2px;
+}
+
+.overflow-hidden{
+  overflow: hidden;
+}
+
+.pe{
+  pointer-events: none!important;
+}
+
+.khula{
+  font-family: 'Khula';
+}
+
+button:focus{
+  outline: none!important;
+}
+
+.h-90{
+  height: 90%;
+}
+
+.logo-cont{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 0;
+}
+
+.overflow-y{
+  overflow-y: auto;
+}
+
+.card-round{
+  width: 400px;
+  border-radius: 15px;
+  padding: 2rem;
+  color: #383c3f;
+}
+
+.white{
+  color: white!important;
+}
+
+.sticky-vert {
+  position: fixed;
+  top: 0;
+  height: 100%;
+}
+
+.all-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blue-aside{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5px;
+  background-color: #AECFDF;
+  border-right: 10px dashed #FFFF;
+}
+
+.unselectable {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.bs-gutter{
+  --bs-gutter-x: 0;
+}
+
+#dark-border{
+  border-right: 10px dashed #343a40;
+}
+
+#light{
+  background-color: #FFFF;
+  color: #383c3f;
+}
+
+#white-col{
+  color: #FFFF;
+}
+
+h1, h2, h3, h4, h5, h6, p, b, legend, input{
+  color: inherit;
+}
+
+input{
+  color: inherit!important;
+}
+
+textarea, input {
+  background-color: inherit;
+  color: inherit;
+}
+
+textarea::placeholder {
+  color: #A9AAAB;
+}
+
+.display6{
+  color: inherit!important;
+}
+
+.display5{
+  color: inherit!important;
+}
+
+.display4{
+  color: inherit!important;
+}
+
+.display1{
+  color: inherit!important;
+}
+
+.none{
+  display: none;
+}
+
+#dark{
+  background-color: #343a40!important;
+  color: #FFFF
+}
+
+#dark-blue{
+  background-color: #1d3557;
+  color: #FFFF
+}
+
+#dark-blue h1 h2 h3 h4 h5 h6 p b {
+  color: #FFFF
+}
+
+
