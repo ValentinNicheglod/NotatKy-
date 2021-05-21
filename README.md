@@ -1,6 +1,6 @@
 # NotatKy
 
-Aplicación web de notas en donde puedes crear un perfil y guardar tus notas pudiendo también filtrarlas por etiquetas, agregarlas a colecciones.
+Aplicación web de notas en donde puedes crear un perfil y guardar tus notas pudiendo también filtrarlas por etiquetas, agregarlas a colecciones y demás.
 
 
 ## 📋 Datos del proyecto...
@@ -75,9 +75,9 @@ Tarjeta de usuario, que muestra algunos de sus datos, cuando creo su cuenta y pe
 ###### Home
 Home contiene los componentes `SideBarHome`, `EditNote` y `Notes`, es la pantalla principal cuando se inicia sesión y se encargá de la mayoría de la lógica de la página.
 ###### SettingsCollections
-SettingsCollections contiene los componentes `SideBarSettings`, `Collections` y `Tags` se encargá de la lógica de colecciones y etiquetas.
+SettingsCollections contiene los componentes `SideBarSettings`, `Collections` y `Tags`, se encargá de la lógica de colecciones y etiquetas.
 ###### SettingsProfile
-SettingsProfile contiene los componentes `SideBarSettings`, `UserCard` y `Profile` se encargá de la lógica de datos de usuario.
+SettingsProfile contiene los componentes `SideBarSettings`, `UserCard` y `Profile`, se encargá de la lógica de datos de usuario.
 
 
 
