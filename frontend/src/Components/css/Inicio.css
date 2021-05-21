@@ -1,0 +1,115 @@
+.inicio-nav{
+    height: 10%;
+    background-color: transparent;
+    padding-left: 0px;
+    justify-content: space-between;
+}
+
+.logo-nav{
+    height: 5rem;
+    padding: 10px;
+}
+
+.inicio-link{
+    font-weight: bold;
+    color: white;
+    display: inline;
+    margin: 10px;
+    
+}
+
+.inicio-link2{
+    font-weight: bold;
+    color: white;
+    display: inline;
+    margin: 10px;
+    cursor: default;
+}
+
+.textfield{
+    width: 85%;
+}
+
+.inicio-app{
+    font-weight: bold;
+}
+
+.inicio-link:hover{
+    color: #ffc107;
+}
+
+.name{
+    width: 38%!important;
+}
+
+.inicio-app:hover{
+    color: white;
+    font-weight: bold;
+}
+
+.inicio-options{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.link-btn{
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    color: #000;
+    align-items: center;
+    font-weight: bold;
+}
+
+.link-btn:hover{
+    color: white;
+    background-color: transparent;
+    border: 1px solid white;
+}
+
+.line-aside {
+    display: flex;
+    flex-direction: row;
+    color: white;
+  }
+  .line-aside:before, .line-aside:after{
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid white;
+    margin: auto;
+  }
+  .line-aside:before {
+    margin-right: 10px
+  }
+  .line-aside:after {
+    margin-left: 10px
+  }
+
+  .line-aside-bl {
+    color: gray!important;
+  }
+
+  .line-aside-bl:before, .line-aside-bl:after{
+    border-bottom: 1px solid gray;
+  }
+
+@media screen and (max-width: 600px){
+    .inicio-logo{
+        display: flex;
+        flex-direction: row;
+        text-align: left!important;
+    }
+
+    .list-restrictions{
+        color: lavender;
+    }
+
+    .log-in{
+        height: fit-content;
+    }
+
+    .login-bg{
+        --bs-gutter-x: 0;
+    }
+}
