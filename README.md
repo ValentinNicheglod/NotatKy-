@@ -1,5 +1,5 @@
 # NotatKy
-
+<img src="https://user-images.githubusercontent.com/67331469/119239494-cba68400-bb1f-11eb-816e-68e1f6f746bc.png" width="100%"/>
 Aplicación web de notas en donde puedes crear un perfil y guardar tus notas pudiendo también filtrarlas por etiquetas, agregarlas a colecciones y demás.
 
 
