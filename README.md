@@ -94,11 +94,11 @@ SettingsProfile contiene los componentes `SideBarSettings`, `UserCard` y `Profil
 ![signup](https://user-images.githubusercontent.com/67331469/119207581-fdaedc00-ba74-11eb-9238-826c45249196.jpg)
 
 > Recuperar contraseña.
-<div>
-  <img src="https://user-images.githubusercontent.com/67331469/119207576-fc7daf00-ba74-11eb-8ce2-bf3f617c342f.jpg" width="33%"/>
-  <img src="https://user-images.githubusercontent.com/67331469/119207575-fc7daf00-ba74-11eb-9758-2102b23572ee.jpg" width="33%"/>
-  <img src="https://user-images.githubusercontent.com/67331469/119207572-fbe51880-ba74-11eb-8790-f9bcbb7f7ecb.jpg" width="33%"/>
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67331469/119207576-fc7daf00-ba74-11eb-8ce2-bf3f617c342f.jpg" width="32%"/>
+  <img src="https://user-images.githubusercontent.com/67331469/119207575-fc7daf00-ba74-11eb-9758-2102b23572ee.jpg" width="32%"/>
+  <img src="https://user-images.githubusercontent.com/67331469/119207572-fbe51880-ba74-11eb-8790-f9bcbb7f7ecb.jpg" width="32%"/>
+</p>
 
 > Home.
 ![home](https://user-images.githubusercontent.com/67331469/119207568-fab3eb80-ba74-11eb-8908-8120c410570f.jpg)
