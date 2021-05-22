@@ -10,7 +10,7 @@ Aplicación web de notas en donde puedes crear un perfil y guardar tus notas pud
 📅⏰ **Fecha de comienzo y finalización:** 01/2021 - 03/2021
 
 🔣⌨️ **Lenguajes utilizados:** Javascript
-5
+
 👨🏻‍💻 📋 **Tecnologías utilizadas:** BCrypt, Bootstrap, Express , Gulp, JWT, Material UI, Moment, Multer, MySQL, Nodemailer, Passport, **React**, Redux, Sequelize.
 
 💻📱 **Tipo:** Página web
