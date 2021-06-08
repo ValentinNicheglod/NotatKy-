@@ -28,7 +28,7 @@ Base de datos gestionada en MySQL, utilizando Sequelize como ORM.
 ### Backend
 Backend programado en *NodeJS* y Express con deploy realizado en Heroku.
 * La autenticación de los usuarios se realiza con Passport y JSONWebToken.
-* La contraseña del usuario es encriptada mediante con bcrypt (mediante hash y salt).
+* La contraseña del usuario es encriptada con bcrypt (mediante hash y salt).
 * Detección de los cambios en modo invitado, reseteando a un modelo determinado cada vez que se inicia sesión.
 
 ### Frontend
@@ -40,7 +40,7 @@ Interfaz construida con *react* y estado administrado con *redux*.
 ###### Collections
 Lista las colecciones del usuario, permitiendole crear una colección nueva o editar las existentes.
 ###### EditNote
-Componenete en donde se visualizan o editan las notas, se las asocia a colecciones o etiquetas, y demás acciones relacionadas.
+Componente en donde se visualizan o editan las notas, se las asocia a colecciones o etiquetas, y demás acciones relacionadas.
 ###### Inicio
 Página principal de la web, desde donde se puede iniciar sesión, registrarse o ingresar como invitado.
 ###### Loading
