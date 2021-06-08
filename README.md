@@ -11,7 +11,7 @@ Aplicación web de notas en donde puedes crear un perfil y guardar tus notas pud
 
 🔣⌨️ **Lenguajes utilizados:** Javascript
 
-👨🏻‍💻 📋 **Tecnologías utilizadas:** BCrypt, Bootstrap, Express , Gulp, JWT, Material UI, Moment, Multer, MySQL, Nodemailer, Passport, **React**, Redux, Sequelize.
+👨🏻‍💻 📋 **Tecnologías utilizadas:** Axios, BCrypt, Bootstrap, Express, JWT, Material UI, Moment, Multer, MySQL, Nodemailer, Passport, **React**, Redux, Sequelize.
 
 💻📱 **Tipo:** Página web
 
