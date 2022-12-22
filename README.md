@@ -1,5 +1,6 @@
 # NotatKy
-<img src="https://user-images.githubusercontent.com/67331469/119239494-cba68400-bb1f-11eb-816e-68e1f6f746bc.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/67331469/209032263-faf44951-985f-40f2-9b78-807ed2e15481.png" width="100%"/>
+
 Aplicación web de notas en donde puedes crear un perfil y guardar tus notas pudiendo también filtrarlas por etiquetas, agregarlas a colecciones y demás.
 
 
@@ -82,6 +83,43 @@ SettingsProfile contiene los componentes `SideBarSettings`, `UserCard` y `Profil
 
 
 ## 🖼️ Imágenes del proyecto...
+
+
+#### Versión 2 (actual)
+
+> Inicio.
+![inicio](https://user-images.githubusercontent.com/67331469/209033287-a194293f-f5bf-46da-a363-91d3234d7eb0.png)
+
+> Inicio de sesión.
+![login](https://user-images.githubusercontent.com/67331469/209033454-f00cb78f-ccf8-4689-a42c-650a8899b88b.png)
+
+> Registrarse.
+![signup](https://user-images.githubusercontent.com/67331469/209033616-04da5f96-25b1-4d0f-832a-c45ee68ab5f1.png)
+
+> Recuperar contraseña.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67331469/209033817-3035f68c-1cb1-4722-89ad-3b18e9ce142d.png" width="32%"/>
+  <img src="https://user-images.githubusercontent.com/67331469/209033863-05be42c2-b30d-4e5e-b436-fe3ec7c3c126.png" width="32%"/>
+  <img src="https://user-images.githubusercontent.com/67331469/209033897-a773f41f-e189-4ada-aa58-ee607c1ed887.png" width="32%"/>
+</p>
+
+> Home.
+![home](https://user-images.githubusercontent.com/67331469/209034155-fb4a92f8-6e75-44f4-8061-17408b35179a.png)
+
+> Edición.
+![home-editing](https://user-images.githubusercontent.com/67331469/209034231-d9c57b16-07c3-465d-8a6e-17aba8411d54.png)
+
+> Añadir etiquetas.
+![home-add-tag](https://user-images.githubusercontent.com/67331469/209034316-8fe05332-ca06-4856-8b8b-9fc9a51573ea.png)
+
+> Perfil.
+![profile](https://user-images.githubusercontent.com/67331469/209034424-5ee053cc-bdc2-44cf-a09a-4053cda5ae54.png)
+
+> Colecciones y etiquetas.
+![col-tag](https://user-images.githubusercontent.com/67331469/209034478-c7d3a8ef-b383-46b5-8d01-3b07f6823e84.png)
+
+#### Versión 1
+
 > Inicio.
 ![inicio](https://user-images.githubusercontent.com/67331469/119207586-fee00900-ba74-11eb-8d4e-17886b05b1d7.jpg)
 
