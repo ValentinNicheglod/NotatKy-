@@ -1,0 +1,63 @@
+@media screen and (min-width: 1000px) and (max-width: 1440px){
+    .card-info{
+        height: 80%;
+        width: 30vw;
+        border-radius: 15px;
+        padding: 20px;
+        color: #1d3557;
+        transition: 500ms;
+        max-height: 600px;
+        box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+    }
+
+    .card-info:hover{
+        height: 85%;
+        width: 32vw;
+        padding: calc(18px + 1vw);
+        box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    }
+
+    .inicio-options{
+        width: 650px!important;
+    }
+
+    .guest-mode{
+        width: 60%!important;
+    }
+
+    .note-cont-4 .col-md-3{
+        width: 30%!important;
+    }
+
+    .note-cont-4 .col-md-9{
+        width: 70%!important;
+    }
+
+    .scale-sm{
+        transform: scale(.9);
+    }
+
+    .dots-cont{
+        padding: 0!important;
+        width: 38%;
+    }
+
+    .profile-userpic{
+        width: 15vw!important;
+    }
+}
+
+@media screen and (min-width: 2560px) {
+    .scale-lg{
+        transform: scale(1.3);
+    }
+
+    .nav-home{
+        height: 7%;
+    }
+
+    .note-cont-4{
+        height: 93%!important;
+    }
+
+}

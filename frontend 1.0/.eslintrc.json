@@ -30,6 +30,7 @@
     "implicit-arrow-linebreak": "off",
     "comma-dangle":"off",
     "function-paren-newline":"off",
-    "jsx-a11y/no-autofocus":"off" 
+    "jsx-a11y/no-autofocus":"off",
+    "linebreak-style": ["error", "windows"]
   }
 }

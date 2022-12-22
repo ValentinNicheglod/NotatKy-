@@ -1,0 +1,173 @@
+#login-submit{
+    border-radius: 30px;
+}
+
+.login-bg{
+    background: linear-gradient(143.35deg, #E0CFFC -6.18%, #CCDAFF 105.17%);;
+    background-size: cover;
+}
+
+.login-bs{
+    display: flex;
+    justify-content: center;
+    --bs-gutter-x: 0px;
+}
+
+.sign-up-btn{
+    color: var(--violet);
+    border-color: var(--violet);
+    border-radius: 30px;
+    font-weight: 500;
+}
+
+.MuiFormLabel-root.Mui-focused{
+    color: var(--violet)!important;
+}
+
+.MuiInput-underline:after{
+    border-bottom: 2px solid var(--violet)!important;
+}
+
+.MuiFormLabel-root.Mui-error {
+    color: #f44336!important;
+}
+
+.MuiStepLabel-label{
+    color: white!important;
+}
+
+.green-label{
+    color: green!important;
+}
+
+.MuiInput-underline.Mui-error:after {
+    border-bottom-color: #f44336!important;
+}
+
+.sign-up-btn:hover{
+    color: white;
+    background-color: var(--dark-violet);
+}
+
+.MuiStepper-root{
+    background: transparent!important;
+    padding-top: 0px!important;
+}
+
+.MuiStepIcon-root.MuiStepIcon-completed {
+    color: #2185D0!important;
+}
+
+.card-round{
+    width: 400px;
+    border-radius: 15px;
+    padding: 2rem;
+    color: #383c3f;
+    user-select: none;
+  }
+
+#popper{
+    border: 1px solid;
+    padding: 1rem;
+    background-color: #FFFF;
+    margin-left: 10px;
+}
+
+.login-p{
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.reset-pw{
+    height: fit-content;
+    width: 400px;
+    border-radius: 20px;
+    padding: 2rem;
+    color: #383c3f;
+}
+
+.login-logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    top: 10px;
+}
+
+.login-title{
+    color: white;
+    font-family: 'Khula', sans-serif;
+}
+
+.code-input {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.code-label {
+    margin-bottom: 16px;
+}
+
+.code-inputs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 24px;
+}
+
+.code-inputs input {
+    border: none;
+    background-image: none;
+    background-color: transparent;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    text-align: center;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+    margin: 0 4px;
+    border: 1px solid #4f5b66;
+    font-size: 25px;
+}
+
+.code-inputs input:focus {
+    outline: none;
+}
+
+.code-inputs input:nth-child(3n) {
+    margin-right: 24px;
+}
+
+.stepper-pw{
+    height: fit-content!important;
+}
+
+@media screen and (min-width: 350px) and (min-height: 660px){
+    .field{
+        margin-top: 1rem;
+    }
+}
+
+
+@media screen and (max-width: 600px){
+  .card-round{
+    width: 100%;
+    height: 100%;
+    border-radius: 0px;
+    padding: 2rem;
+    color: #383c3f;
+  }
+
+  .res-pw{
+      justify-content: space-between!important;
+  }
+
+  .MuiStepper-horizontal{
+    padding: 0!important;
+    color: black!important;
+  }
+
+  .MuiStepLabel-label{
+      color: inherit!important;
+  }
+}

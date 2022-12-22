@@ -1,0 +1,671 @@
+.button {
+  border-radius: 35px !important;
+}
+
+.profile{
+  width: 100%;
+}
+
+.user-profile{
+  height: fit-content;
+}
+
+.user-tag{
+  height: 100%!important;
+}
+
+.profile-sidebar {
+  background: transparent;
+  height: 100%;
+  padding: 0;
+}
+
+.pro{
+  height: 90%!important;
+}
+
+.MuiTableCell-root p{
+  display: inline-flex!important;
+}
+
+.profile-userpic {
+  width: 25vh!important;
+  height: initial!important;
+  font-size: 10vh!important;
+  font-family:sans-serif!important;
+  max-width: 90%;
+  aspect-ratio: 1/1;
+  letter-spacing: -5px;
+}
+
+.input-profile{
+  width: 75%!important;
+}
+
+#selected-color{
+  background-color: lightgray;
+}
+
+.blue{
+  background-color: #2185D0!important;
+}
+
+.info-cont-settings{
+  height: 75%!important;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.profile-userpic img {
+  float: none;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  border-radius: 90px !important;
+}
+
+.profile-usertitle {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.profile-usertitle-name {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.profile-usertitle-job {
+  text-transform: uppercase;
+  color: #E0E0E0;
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.profile-userbuttons {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.profile-userbuttons .btn {
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 6px 15px;
+  margin-right: 5px;
+}
+
+.profile-userbuttons .btn:last-child {
+  margin-right: 0px;
+}
+    
+.profile-usermenu {
+  margin: 30px;
+  display: flex;
+  flex-direction: row;
+  width: 177px;
+  color: inherit;
+}
+
+.profile-usermenu ul li {
+  margin-top: 15px;
+}
+
+.card-edit small{
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: orange;
+  padding: 5px;
+}
+
+.profile-usermenu ul li:last-child {
+  border-bottom: none;
+}
+
+.profile-usermenu ul li a {
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.profile-usermenu ul li a i {
+  margin-right: 8px;
+  font-size: 14px;
+  width: 177px;
+}
+
+.profile-content {
+  padding: 20px;
+  background: #fff;
+  min-height: 460px;
+}
+
+.card-edit{
+  display: flex;
+  align-items: center;
+  width: 300px;
+  height: fit-content;
+  border-radius: 20px;
+  padding: 150px 3rem 3rem 3rem;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+  word-break: break-all;
+}
+
+.settings-title{
+  border-bottom: 3px solid var(--violet);
+  margin-bottom: 24px;
+  padding: unset;
+  padding-bottom: 12px;
+  font-size: 3rem;
+}
+
+.conf-2{
+  overflow-y: auto;
+  height: 85%;
+}
+
+.user-data-card{
+  color: inherit;
+}
+
+.form-mid{
+  width: 48%
+}
+
+.repeat-pw{
+  margin-left: 1px;
+}
+
+.gender-select{
+  width: 90%;
+}
+
+.profile-edit{
+  opacity: 0;
+}
+
+.input-50{
+  width: 250px;
+}
+
+.profile-section{
+  color:  var(--violet-2);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-outline-primary{
+  background-color: var(--violet);
+  color: #fff;
+  border-color:  var(--violet);
+}
+
+.btn-outline-primary:hover{
+  background-color: var(--dark-violet);
+  border: 2px solid  var(--dark-violet);
+}
+
+.cancel-btn-modal-edit{
+  width: 30%;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.cancel-btn-modal{
+  width: 45%;
+}
+
+#tbody {
+  display: block!important;
+  height: 50vh!important;
+  overflow-y: auto!important;
+}
+
+#thead, .MuiTableRow-root {
+  display: table!important;
+  width: 100%;
+  table-layout: fixed!important;
+}
+
+#tab-col-table{
+  box-shadow: none;
+  width: 100%;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: inherit;
+  color: inherit!important;
+}
+
+#settings-side-bar{
+  padding-right: 0px;
+}
+
+#item-side-bar{
+  padding-left: 26px;
+}
+
+.settings-select{
+  background-color: #DAD8F3!important;
+  padding-left: 26px!important;
+  border-top-right-radius: 21px!important;
+  border-bottom-right-radius: 21px!important;
+}
+
+.settings-select-dark{
+  background-color: #343a40!important;
+  padding-left: 26px!important;
+  color: #A333C8!important;
+  border-top-right-radius: 21px!important;
+  border-bottom-right-radius: 21px!important;
+}
+
+.settings-select span{
+  font-weight: 600 !important;
+}
+
+#home-select span {
+  font-weight: 600 !important;
+}
+
+.settings-select-dark span{
+  font-weight: bold!important;
+}
+
+.table-cell-col p{
+  font-size: 1rem;
+}
+
+.modal-col {
+  position: 'absolute';
+  width: 25%;
+  border-radius: 10px;
+  background-color: white;
+  padding: 2rem;
+}
+
+.violet{
+  color: var(--violet)
+}
+
+.purple {
+  color: #A333C8;
+}
+
+.purple-bg {
+  background-color: #645BCC;
+}
+
+.add-phone {
+  padding: 0;
+}
+
+.add-phone:hover {
+  color: var(--dark-violet);
+}
+
+.MuiTableCell-head{
+  color: inherit!important;
+}
+
+.MuiTableCell-body{
+  color: inherit!important;
+}
+
+.MuiInputBase-root{
+  color: inherit!important;
+}
+
+.modal-col-action{
+  width: 50%;
+}
+
+.color-dot{
+  padding: 0px!important;
+}
+
+.mobile-user-card-cont{
+  width: 100%;
+  height: 15vh;
+}
+
+.mobile-user-card{
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.mobile-user-card-1{
+  width: 20%;
+  height: 100%;
+  padding: 5px; 
+}
+
+.mobile-user-card-2{
+  width: 40%;
+  overflow: hidden;
+  padding-left: 10px; 
+  padding-right: 10px;
+  height: 100%;
+  font-size: 3vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mobile-user-card-3{
+  width: 40%;
+  padding-left: 10px; 
+  padding-right: 10px;
+  color: white;
+  font-family: 'Rubik';
+}
+
+.mobile-user-card-3 small{
+  font-size: 2.5vw;
+  color: lightgray;
+}
+
+.mobile-user-card-3 p{
+  font-size: 3vw;
+}
+
+.mobile-user-card-ocupation{
+  height: 50%;
+  border-left: lightgray 1px solid;
+}
+
+.mobile-user-card-date{
+  height: 50%;
+  border-left: lightgray 1px solid;
+}
+
+.mobile-user-card-avatar{
+  height: 16vw!important;
+  width: 16vw!important;
+  margin-left: 10px;
+  max-height: 80px;
+  max-width: 80px;
+}
+
+.MuiFormLabel-root{
+  color: inherit!important;
+}
+
+.no-data-cont{
+  height: 85vh;
+}
+
+.create-btn{
+  width: 50%;
+}
+
+.no-data-cont{
+  height: 100%;
+}
+
+#selectedColor{
+  border: 3px solid;
+}
+
+.inicio-logo {
+  margin-left: 12px;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 600px){
+  .inicio-logo {
+    margin: unset;
+    margin-bottom: 24px;
+  }
+
+  .user-profile{
+    margin: 0!important;
+    padding: 1rem!important;
+    width: 100%;
+    height: fit-content;
+    --bs-gutter-x: 0!important;
+  }
+
+  .input-profile{
+    width: 100%!important;
+  }
+
+  #tbody {
+    height: auto!important;
+    max-height: 80vh!important;
+  }
+
+  .btn-outline-primary:hover {
+    background-color: initial;
+    color: initial;
+    border: initial;
+}
+
+  .no-data-cont{
+    height: 85vh;
+  }
+
+  #col-table {
+    display: flex!important;
+    width: 100%;
+    table-layout: fixed!important;
+  }
+
+  #col-table {
+    display: table-row!important;
+    position: relative;
+  }
+
+  .action-btn {
+    position: relative!important;
+    inset: 0;
+    width: 50px;
+    margin-left: auto!important;
+  }
+
+  .btn-add{
+    position: absolute;
+    width: 75vw;
+    left: 15px;
+    text-align: left;
+    margin-bottom: 50px;
+  }
+
+  .menu-icon{
+    color: inherit;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+
+  .pro{
+    height: fit-content!important;
+  }
+
+  .conf-2{
+    padding: 0!important;
+  }
+
+  .MuiTableCell-root{
+    padding: 5px!important;
+  }
+
+  .user-profile form{
+    --bs-gutter-x: 1.5rem;
+  }
+
+  .info-cont-settings{
+    padding-top: 1rem!important;
+  }
+
+  .info-cont-settings hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .btn-update{
+    width: 90%!important;
+    border-radius: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Rubik';
+    font-size: 15px;
+    -webkit-text-stroke: thin;
+  }
+
+  .user-tag{
+    height: auto!important;
+  }
+
+  .create-btn{
+    width: 100%;
+  }
+
+  .dark{
+    background-color: #343a40!important;
+  }
+
+  .modal-col-action{
+    width: 100%;
+  }
+
+  .modal-col{
+    height: fit-content;
+    max-height: 90%;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+
+  .main-logo{
+    width: 100%;
+    position: absolute;
+    top: 0px;
+  }
+
+  .inputWrapper {
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+  }
+  .fileInput {
+    cursor: pointer;
+    height: 100%;
+    position:absolute;
+    top: 0;
+    right: 0;
+    z-index: 99;
+    font-size:50px;
+    opacity: 0;
+    -moz-opacity: 0;
+    filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0)
+  }
+
+  .add{
+    padding: 0!important;
+    padding-left: 15px!important;
+  }
+
+  .profile-sidebar{
+    height: 100%;
+  }
+
+  .profile-userpic{
+    width: 25vh!important;
+    height: 25vh!important;
+  }
+
+  .MuiTableCell-root p{
+    display: inline-flex;
+    overflow: hidden;
+  }
+
+  @media screen and (max-height: 620px){
+    .mobile-user-card-cont{
+      width: 100%;
+      height: 15vh;
+    }
+    
+    .mobile-user-card{
+      width: 100%;
+      height: 100%;
+      border-radius: 10px;
+    }
+
+    .no-data-cont{
+      height: 75vh;
+    }
+
+    .no-data{
+      height: 75vh;
+    }
+    
+    .mobile-user-card-1{
+      width: 20%;
+      height: 100%;
+      padding: 5px; 
+    }
+    
+    .mobile-user-card-2{
+      width: 40%;
+      overflow: hidden;
+      padding-left: 10px; 
+      padding-right: 10px;
+      height: 100%;
+      font-size: 3vh;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      text-align: left;
+      color: white;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    .mobile-user-card-3{
+      width: 40%;
+      padding-left: 10px; 
+      padding-right: 10px;
+      color: white;
+      font-family: 'Rubik';
+    }
+    
+    .mobile-user-card-3 small{
+      font-size: 3vw;
+      color: lightgray;
+    }
+    
+    .mobile-user-card-3 p{
+      font-size: 3.5vw;
+    }
+    
+    .mobile-user-card-avatar{
+      height: 16vw!important;
+      width: 16vw!important;
+      margin-left: 10px;
+      max-height: 75px;
+      max-width: 75px;
+    }
+
+    .mobile-user-card-ocupation{
+      border-left: lightgray 1px solid;
+    }
+    
+    .mobile-user-card-date{
+      height: 100%;
+      border-left: lightgray 1px solid;
+    }
+  }
+
+  @media screen and (max-height: 570px){
+    .mobile-user-card-ocupation{
+      display: none;
+    }
+  }
+}
+ 
